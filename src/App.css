@@ -16,6 +16,10 @@
     height: 100%;
 }
 
+.project-grid {
+  display: flex;
+}
+
 .avatar-img {
     height: 250px;
     padding-top:5em;
@@ -60,3 +64,5 @@
   font-size: 5em;
   padding: 8px;
 }
+
+
